@@ -145,6 +145,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontFamily: "Roboto-Regular",
+    fontWeight: 500,
     textAlign: "center",
     color: "#212121",
     fontSize: 32,
